@@ -1,0 +1,75 @@
+.logo {
+  width: 300px;
+}
+.navbar-right {
+  font-size: 18px;
+  font-weight: 900;
+  color: #3e415f;
+  font-family: "Roboto", sans-serif;
+}
+.first {
+  height: 90vh;
+  background-color: #fffbf0;
+}
+h1 {
+  font-family: "Yusei Magic", sans-serif;
+  font-size: 3rem;
+}
+h4 {
+  font-size: 25px;
+  color: #3e415f;
+  font-family: "Yusei Magic", sans-serif;
+}
+h5 {
+  font-size: 45px;
+  font-weight: 700;
+  color: #fabe4c;
+  font-family: "Yusei Magic", sans-serif;
+}
+.text-color {
+  color: #fabe4c;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  color: #3e415f;
+  line-height: 28px;
+}
+.btn-m {
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #a4bc46;
+  border: 0;
+  border-radius: 7px;
+}
+.btn-m:hover {
+  background-color: #889c35;
+  color: white;
+  border: 5px solid #889c35;
+}
+/* Women section */
+
+.card-img {
+  width: 100%;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 10px 10px;
+}
+.col-m {
+  border: 0;
+  background-color: white;
+  border-radius: 20px;
+}
+/* Last section */
+.last-section {
+  background-color: f1f1f1;
+}
+.logo-m {
+  width: 100px;
+}
+footer p {
+  text-align: center;
+}
